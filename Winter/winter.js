@@ -27,119 +27,119 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_133 = function() {
+(lib.CachedBmp_35 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_132 = function() {
+(lib.CachedBmp_34 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_131 = function() {
+(lib.CachedBmp_33 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_130 = function() {
+(lib.CachedBmp_32 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_129 = function() {
+(lib.CachedBmp_31 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_128 = function() {
+(lib.CachedBmp_30 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_127 = function() {
+(lib.CachedBmp_29 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_126 = function() {
+(lib.CachedBmp_28 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_125 = function() {
+(lib.CachedBmp_27 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_124 = function() {
+(lib.CachedBmp_26 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_123 = function() {
+(lib.CachedBmp_25 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_122 = function() {
+(lib.CachedBmp_24 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_121 = function() {
+(lib.CachedBmp_23 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_120 = function() {
+(lib.CachedBmp_22 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_119 = function() {
+(lib.CachedBmp_21 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_118 = function() {
+(lib.CachedBmp_20 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_117 = function() {
+(lib.CachedBmp_19 = function() {
 	this.initialize(ss["winter_atlas_1"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
@@ -403,7 +403,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// FlashAICB
-	this.instance = new lib.CachedBmp_133();
+	this.instance = new lib.CachedBmp_35();
 	this.instance.setTransform(-141.8,-117.75,0.5845,0.5845);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -432,14 +432,14 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// text
-	this.instance = new lib.CachedBmp_132();
+	this.instance = new lib.CachedBmp_34();
 	this.instance.setTransform(-291.65,-22.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	// white
 	this.shape = new cjs.Shape();
-	this.shape.graphics.lf(["rgba(255,255,255,0)","rgba(255,255,255,0.878)","rgba(255,255,255,0.878)","rgba(255,255,255,0)"],[0,0.224,0.792,1],0,-118.4,0,119.1).s().p("EhMjASkMAAAglHMCZHAAAMAAAAlHg");
+	this.shape.graphics.lf(["rgba(255,255,255,0)","rgba(255,255,255,0.878)","rgba(255,255,255,0.878)","rgba(255,255,255,0)"],[0,0.224,0.792,1],0,-118.3,0,119.1).s().p("EhMjASkMAAAglHMCZHAAAMAAAAlHg");
 	this.shape.setTransform(0,-3.1506,1,0.6932);
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
@@ -462,7 +462,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// text
-	this.instance = new lib.CachedBmp_131();
+	this.instance = new lib.CachedBmp_33();
 	this.instance.setTransform(-356.25,-41.15,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -492,7 +492,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// logo_svg
-	this.instance = new lib.CachedBmp_130();
+	this.instance = new lib.CachedBmp_32();
 	this.instance.setTransform(-289.9,-34.45,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -515,13 +515,13 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer 1
-	this.instance = new lib.CachedBmp_126();
+	this.instance = new lib.CachedBmp_28();
 	this.instance.setTransform(-184.5,-22.9,0.6667,0.6667);
 
-	this.instance_1 = new lib.CachedBmp_127();
+	this.instance_1 = new lib.CachedBmp_29();
 	this.instance_1.setTransform(-184.5,-22.9,0.6667,0.6667);
 
-	this.instance_2 = new lib.CachedBmp_128();
+	this.instance_2 = new lib.CachedBmp_30();
 	this.instance_2.setTransform(-184.5,-22.9,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).to({state:[]},1).wait(1));
@@ -582,7 +582,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// レイヤー_1
-	this.instance = new lib.CachedBmp_124();
+	this.instance = new lib.CachedBmp_26();
 	this.instance.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -605,7 +605,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// レイヤー_1
-	this.instance = new lib.CachedBmp_122();
+	this.instance = new lib.CachedBmp_24();
 	this.instance.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -628,7 +628,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// レイヤー_1
-	this.instance = new lib.CachedBmp_120();
+	this.instance = new lib.CachedBmp_22();
 	this.instance.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -651,7 +651,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// レイヤー_1
-	this.instance = new lib.CachedBmp_117();
+	this.instance = new lib.CachedBmp_19();
 	this.instance.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -677,7 +677,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.logosvg("synched",0);
 	this.instance.setTransform(611,38.7,1,1,0,0,0,145,17.2);
 
-	this.instance_1 = new lib.CachedBmp_129();
+	this.instance_1 = new lib.CachedBmp_31();
 	this.instance_1.setTransform(-489.95,-38.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -703,7 +703,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.reload("synched",0);
 	this.instance.setTransform(26.5,26.5,1,1,0,0,0,26.5,26.5);
 
-	this.instance_1 = new lib.CachedBmp_125();
+	this.instance_1 = new lib.CachedBmp_27();
 	this.instance_1.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).wait(1));
@@ -729,7 +729,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.play("synched",0);
 	this.instance.setTransform(26.5,26.5,1,1,0,0,0,26.5,26.5);
 
-	this.instance_1 = new lib.CachedBmp_123();
+	this.instance_1 = new lib.CachedBmp_25();
 	this.instance_1.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).wait(1));
@@ -755,7 +755,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.pause("synched",0);
 	this.instance.setTransform(26.5,26.5,1,1,0,0,0,26.5,26.5);
 
-	this.instance_1 = new lib.CachedBmp_121();
+	this.instance_1 = new lib.CachedBmp_23();
 	this.instance_1.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).wait(1));
@@ -781,10 +781,10 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.fastforward("synched",0);
 	this.instance.setTransform(26.5,26.5,1,1,0,0,0,26.5,26.5);
 
-	this.instance_1 = new lib.CachedBmp_119();
+	this.instance_1 = new lib.CachedBmp_21();
 	this.instance_1.setTransform(52.95,6.7,0.6667,0.6667);
 
-	this.instance_2 = new lib.CachedBmp_118();
+	this.instance_2 = new lib.CachedBmp_20();
 	this.instance_2.setTransform(-0.95,-0.95,0.6667,0.6667);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_2},{t:this.instance_1}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).wait(1));
@@ -1215,15 +1215,15 @@ lib.properties = {
 	width: 980,
 	height: 552,
 	fps: 24,
-	color: "#FFFFFF",
-	opacity: 1.00,
+	color: "#EADADA",
+	opacity: 0.00,
 	manifest: [
-		{src:"images/FarTree.png?1790170909668", id:"FarTree"},
-		{src:"images/Ground.png?1790170909668", id:"Ground"},
-		{src:"images/Houses.png?1790170909668", id:"Houses"},
-		{src:"images/People.png?1790170909668", id:"People"},
-		{src:"images/SnowFlakes.png?1790170909668", id:"SnowFlakes"},
-		{src:"images/winter_atlas_1.png?1790170909649", id:"winter_atlas_1"}
+		{src:"images/FarTree.png?1790176190647", id:"FarTree"},
+		{src:"images/Ground.png?1790176190647", id:"Ground"},
+		{src:"images/Houses.png?1790176190647", id:"Houses"},
+		{src:"images/People.png?1790176190647", id:"People"},
+		{src:"images/SnowFlakes.png?1790176190647", id:"SnowFlakes"},
+		{src:"images/winter_atlas_1.png?1790176190629", id:"winter_atlas_1"}
 	],
 	preloads: []
 };
